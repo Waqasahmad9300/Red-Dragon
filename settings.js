@@ -31,7 +31,7 @@ global.botname = ' ☬KASHII LOVERS' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://www.youtube.com/channel/UCQ66_DJCtA_-azql_pxrQVA/featured
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'PAKISTAN' //Country Region
 
 global.packname = '☬KASHII 9300' //Bot Pacage Name
 global.author = '😎KASHII LOVER❯❯' //Author Name
