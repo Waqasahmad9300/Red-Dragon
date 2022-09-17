@@ -22,19 +22,19 @@ global.APIKeys = {
 global.alivemsg = `My name is KASHII 9300
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (KASHII LOVE MISHII `` )
 
-global.owner = ['+923077889300'] //Owner number in aive msg
-global.premium = ['+923077889300'] //Owner Number info
-global.ownernomer = '+923077889300' //Owner Number <<<
+global.owner = ['03459649063'] //Owner number in aive msg
+global.premium = ['03459649063'] //Owner Number info
+global.ownernomer = '03459649063' //Owner Number <<<
 
-global.ownername = '😎KASHII 9300' //Owner Name
-global.botname = ' ☬KASHII LOVERS' //Bot Name
+global.ownername = 'مرشد عاصم' //Owner Name
+global.botname = ' ☬مرشد عاصم' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://www.youtube.com/channel/UCQ66_DJCtA_-azql_pxrQVA/featured
 global.region = 'PAKISTAN' //Country Region
 
-global.packname = '☬KASHII 9300' //Bot Pacage Name
-global.author = '😎KASHII LOVER❯❯' //Author Name
+global.packname = '☬مرشد عاصم' //Bot Pacage Name
+global.author = 'مرشد عاصم❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session1' //Session Name!
 global.sp = '⭔' //A Charactor
