@@ -22,24 +22,24 @@ global.APIKeys = {
 global.alivemsg = `My name is KASHII 9300
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (KASHII LOVE MISHII `` )
 
-global.owner = ['03459649063'] //Owner number in aive msg
-global.premium = ['03459649063'] //Owner Number info
-global.ownernomer = '03459649063' //Owner Number <<<
+global.owner = ['03077889300'] //Owner number in aive msg
+global.premium = ['03077889300'] //Owner Number info
+global.ownernomer = '03077889300' //Owner Number <<<
 
-global.ownername = 'مرشد عاصم' //Owner Name
-global.botname = ' ☬مرشد عاصم' //Bot Name
+global.ownername = 'KashiiLover' //Owner Name
+global.botname = ' ☬Kashii 💕 Mishii' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://www.youtube.com/channel/UCQ66_DJCtA_-azql_pxrQVA/featured
+global.btnurl = 'https://youtube.com/@FFKashii?si=Bs67Kq92xD5O0nbG
 global.region = 'PAKISTAN' //Country Region
 
-global.packname = '☬مرشد عاصم' //Bot Pacage Name
-global.author = 'مرشد عاصم❯❯' //Author Name
+global.packname = '☬Kashii 💕 Mishii' //Bot Pacage Name
+global.author = 'Mishii Kashii❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = 'session1' //Session Name!
+global.sessionName = 'Kashuu' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.dragonemoji = '💕' // Menu emoji
+global.footer = '©_Kashuu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
